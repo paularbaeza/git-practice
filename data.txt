@@ -1,3 +1,3 @@
 Name: Paula
 Age: 30
-Favorite Color: Naranjita
+Favorite Color: Pistacho
